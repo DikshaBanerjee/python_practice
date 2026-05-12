@@ -1,4 +1,4 @@
-# using  a temp variable
+# using  a third variable
 
 x = 12;
 y = 13;
@@ -9,7 +9,7 @@ y = temp;
 print("Swap value of x is:", x);
 print("Swap value of y is:", y);
 
-# not using a temp variable
+# without using a third variable
 
 a = 12;
 b = 13;
