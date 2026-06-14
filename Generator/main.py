@@ -15,6 +15,9 @@ print(next(num2))
 print(next(num2))
 print(next(num2))
 
+print(list(num2))     #Generators can be used only once----
+print(list(num2))     #The second result will be empty----
+
 # def read_lines(filepath):
 #     with open(filepath) as file:
 #         for line in file:
